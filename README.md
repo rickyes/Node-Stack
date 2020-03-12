@@ -24,8 +24,13 @@
 ### 架构设计
 
 ### 分布式
+- [浅谈一致性哈希](https://www.ricky.im/2020/03/11/consistent-hashing/)
 
 ### RPC
+- [从零开始实现一个IDL+RPC框架](https://www.ricky.im/2018/08/01/rpc/)
+
+### 性能调优
+- [Node.js 应用性能调优](https://www.ricky.im/2018/11/06/performance-analysis/)
 
 ### Node.js Core
 
