@@ -3,17 +3,7 @@
 
 ### 数据结构与算法
 
-- [HashMap]()
-- [LinkedList]()
-- [DoubleLinkedList]()
-- [LinkedHashMap]()
-- [CycleLinkedList]()
-- [BinaryTree]()
-- [RedBlackTree]()
-- [AVLTree]()
-- [BTree]()
-- [BPlusTree]()
-- [Graph]()
+- [二分搜索](./algorithm/binarySearch.md)
 
 ### 常用框架
 
